@@ -1,4 +1,5 @@
 console.log("hi everybody!");
+console.log('Szia Robi');
 
 export default function SiteHeader() {
   return (
